@@ -10,5 +10,8 @@
     "build": "tsc",
     "watch": "tsc -w",
     "prepublishOnly": "yarn build"
+  },
+  "dependencies": {
+    "typed-factorio": "^2.10.1"
   }
 }

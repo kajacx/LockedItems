@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+typed-factorio@^2.10.1:
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/typed-factorio/-/typed-factorio-2.10.1.tgz#23d1259b8fcb9f59d0c8473fd43789b908f6c46d"
+  integrity sha512-uGlOXYHvJl+lJbmd+ELvDKZDTpjZsJXD1sBLRk6B4pq9jdowLE2NQALc4Kj4oxH8dMYE0XqPP1Vu4HgxjCPQ3Q==
+
 typescript@^5.4.5:
   version "5.4.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.4.5.tgz#42ccef2c571fdbd0f6718b1d1f5e6e5ef006f611"
